@@ -23,5 +23,5 @@ Pour des raisons de **confidentialité et de publication publique sur GitHub**, 
 ### 1. Cloner le dépôt
 
 ```bash
-git clone [https://github.com/BerengerClay/agenda-mp-to-ics.git](https://github.com/BerengerClay/agenda-mp-to-ics.git)
+git clone git@github.com:BerengerClay/agenda-mp-to-ics.git
 cd agenda-mp-to-ics
